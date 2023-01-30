@@ -1,2 +1,2 @@
-# free-easydatabase
-A Free and Easy to use Database Application that requires no coding knowledge
+# easy-freedatabase
+An Easy and Free to use Database Application that requires no coding knowledge
